@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "Spring.datasource.dirver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for Spring.datasource.dirver-class-name."
+  }
+] }
